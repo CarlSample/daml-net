@@ -1,4 +1,4 @@
-﻿# .Net bindings for DAML
+﻿# .Net bindings for DAMLv
 
 This repository hosts .Net bindings for the [DAML](https://www.daml.com) Ledger API and DAML-LF.
 
